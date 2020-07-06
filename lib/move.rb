@@ -10,3 +10,7 @@ end
 def input_to_index(string)
  string.to_i 
 end
+
+def move(board_arr, index, letter = "X")
+  
+end
